@@ -30,36 +30,22 @@ In this project:
 
 A Min-Heap supports efficient insertion and extraction, making it suitable for managing food batches according to expiry priority.
 
-## 🏗️ Project Structure
+## 📊 Project Presentation
 
-```text
-PERISHABLE-FOOD-WAREHOUSE-DISPATCH/
-│
-├── Source_Code/
-│   └── WarehouseDispatchSystem.java
-│
-├── Documentation/
-│   ├── Introduction.md
-│   ├── Abstract.md
-│   ├── Problem_Statement.md
-│   ├── Objectives.md
-│   ├── Algorithm.md
-│   ├── Methodology.md
-│   ├── Complexity_Analysis.md
-│   ├── Test_Cases.md
-│   ├── Conclusion.md
-│   ├── Future_Scope.md
-│   └── References.md
-│
-├── Output_Screenshots/
-│   ├── Main_Menu.png
-│   ├── FEFO_Inventory.png
-│   ├── Near_Expiry_Alert.png
-│   ├── Dispatch_Report.png
-│   └── Warehouse_Report.png
-│
-├── .gitignore
-└── README.md
+The complete PowerPoint presentation for the Perishable Food Warehouse Dispatch System is available below.
+
+- [View / Download Project Presentation](Presentation/Perishable_Food_Warehouse_Dispatch_Presentation.pptx)
+
+The presentation covers:
+- Project overview and objectives
+- Problem statement
+- Min-Heap data structure
+- FEFO dispatch methodology
+- System features and working procedure
+- Sample outputs
+- Testing strategy
+- Time complexity analysis
+- Future enhancements
 ```
 
 ## ⚙️ Technologies Used
@@ -120,6 +106,23 @@ The following screenshots demonstrate the application's console output.
 | Near Expiry Alert | [View](Output_Screenshots/Near_Expiry_Alert.png) |
 | Dispatch Report | [View](Output_Screenshots/Dispatch_Report.png) |
 | Warehouse Report | [View](Output_Screenshots/Warehouse_Report.png) |
+
+## 📊 Project Presentation
+
+The complete PowerPoint presentation for the Perishable Food Warehouse Dispatch System is available below.
+
+- [View / Download Project Presentation](Presentation/Perishable_Food_Warehouse_Dispatch_Presentation.pptx)
+
+The presentation covers:
+- Project overview and objectives
+- Problem statement
+- Min-Heap data structure
+- FEFO dispatch methodology
+- System features and working procedure
+- Sample outputs
+- Testing strategy
+- Time complexity analysis
+- Future enhancements
 
 ## 🧪 Testing
 
